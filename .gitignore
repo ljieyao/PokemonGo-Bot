@@ -104,7 +104,7 @@ data/cells-*.json
 data/map-caught-*.json
 
 # Multiple config
-configs/*
+
 !configs/config.json.example
 !configs/release_config.json.example
 !configs/config.json.pokemons.example
@@ -120,3 +120,7 @@ include/
 
 # Pip check file
 pip-selfcheck.json
+
+
+share
+user_web_catchable

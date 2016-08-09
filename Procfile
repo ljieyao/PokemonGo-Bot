@@ -1,1 +1,1 @@
-python: pokecli
+bash: python pokecli.py
