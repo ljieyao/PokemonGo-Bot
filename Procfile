@@ -1,1 +1,1 @@
-web: python pokecli.py
+web: gunicorn pokecli --log-file -
